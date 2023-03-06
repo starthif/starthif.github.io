@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Top 10 tour spot you must visit when traveling to NewYork of USA"
-categories: travel
+categories: mistery10
 tag: [NewYork, USA, Travel, Tourism, Adventure, Explore, EmpireStateBuilding, TimesSquare, CentralPark, StatueOfLiberty, BrooklynBridge, HighLine, Memorial, RockefellerCenter, GrandCentralTerminal, Broadway]
 toc: false
 author_profile: false
