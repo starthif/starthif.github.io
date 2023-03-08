@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Mistery T10
     url:               /mistery10/
+  - title:             WowTop10
+    url:               /wow10/
   - title:             Documentation
     url:               /docs/
   - title:             About
