@@ -1,12 +1,10 @@
 ---
-layout: single
-title:  "Top 10 tour spot you must visit when traveling to NewYork of USA"
-categories: travel
-tag: [NewYork, USA, Travel, Tourism, Adventure, Explore, EmpireStateBuilding, TimesSquare, CentralPark, StatueOfLiberty, BrooklynBridge, HighLine, Memorial, RockefellerCenter, GrandCentralTerminal, Broadway]
-toc: false
-author_profile: false
-sidebar:
-    nav: "counts"
+layout: post
+title: ´º¿åÅ¾10
+description: >
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+sitemap: false
+hide_last_modified: true
 ---
 
 <img src="https://source.unsplash.com/1600x900/?new-york,usa">
