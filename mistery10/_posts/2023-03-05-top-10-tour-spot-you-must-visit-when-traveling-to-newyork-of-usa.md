@@ -1,10 +1,21 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: ´º¿åÅ¾10
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
 hide_last_modified: true
+=======
+layout: single
+title:  "Top 10 tour spot you must visit when traveling to NewYork of USA"
+categories: mistery10
+tag: [NewYork, USA, Travel, Tourism, Adventure, Explore, EmpireStateBuilding, TimesSquare, CentralPark, StatueOfLiberty, BrooklynBridge, HighLine, Memorial, RockefellerCenter, GrandCentralTerminal, Broadway]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+>>>>>>> 4069cef1b2693e9ab1a4ff22b7a8f4d5b4b746c3
 ---
 
 <img src="https://source.unsplash.com/1600x900/?new-york,usa">
