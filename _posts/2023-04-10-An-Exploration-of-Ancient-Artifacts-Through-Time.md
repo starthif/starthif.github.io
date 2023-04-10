@@ -3,7 +3,7 @@ layout: post
 title:  "An Exploration of Ancient Artifacts Through Time"
 description: >
 date: 2023-04-10
-categories: [Ancient,Artifacts]
+categories: [Ancient_Artifacts]
 ---
 
 
